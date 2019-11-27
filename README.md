@@ -1,2 +1,5 @@
 # crud-operation-using-modal
-Create, Read, Update and Delete Operation by Using Modal On table
+
+Using Modal On Table
+Operations -- Create, Select, Read, Update and Delete 
+Technologies -- AJAX and PHP
